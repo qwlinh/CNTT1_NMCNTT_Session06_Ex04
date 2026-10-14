@@ -7,7 +7,7 @@
 + Về cơ chế hoạt động trong PowerShell: có chức năng tạo mới tệp hoặc ghi đè toàn bộ nội dung cũ bằng nội dung mới được xuất ra. 
 
 + rủi ro mất dữ liệu: có rủi ro mất dữ liệu cực kỳ cao 
-
+ 
 + ngữ cảnh sử dụng thực tế: dùng toán tử > để làm mới tệp báo cáo mỗi khi chạy. (ca sáng hoặc các kịch bản chạy một lần )
 
 + encoding file đầu ra: mặc định mã hóa tệp theo định dạng UTF-8, điều này có thể gây lỗi hiển thị ký tự (hiển thị sai font hoặc ô vuông) nếu mở bằng các công cụ hoặc trình soạn thảo không hỗ trợ chuẩn UTF-8. 
